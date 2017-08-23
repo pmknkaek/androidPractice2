@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">androidPractice2</string>
+    <string name="hello">Hello</string>
+    <string name="hallo">Hallo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
